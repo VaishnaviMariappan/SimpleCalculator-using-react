@@ -1,6 +1,24 @@
-# SIMPLE CALCULATOR USING REACT JS
+# EXP 06 - SIMPLE CALCULATOR USING REACT JS
+
+## AIM:
+
+To create a simple calculator using react js
+
+## SOFTWARE:
+
+Visual Studio Code
+
+## ALGORITHM:
+
+1) Set up the React environment: Install Node.js and create a new React project using create-react-app. Open your terminal or command prompt and run the following commands
+2) Open the project in your preferred code editor.
+3) Replace the contents of 'src/App.js" with the following code
+4) Replace the contents of "src/App.css" with the following CSS styles
+5) Start the development server: In the terminal, run npm start to start the React development server.
+6) Open your browser and visit http://localhost:3000 to see the calculator.
 
 ## PROGRAM:
+
 ### App.js
 ```jsx
 import React, { useState } from 'react';
